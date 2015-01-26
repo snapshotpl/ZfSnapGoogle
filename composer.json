@@ -1,0 +1,12 @@
+{
+    "name": "snapshotpl/zf-snap-google",
+    "require": {
+        "php": ">=5.4.0",
+        "google/apiclient": "~1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZfSnapGoogle\\": "src/"
+        }
+    }
+}
